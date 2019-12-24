@@ -1,5 +1,5 @@
-from . import Gw2
+from . import gw2
 
 
 def setup(bot):
-    bot.add_cog(Gw2.Gw2(bot))
+    bot.add_cog(gw2.Gw2(bot))
