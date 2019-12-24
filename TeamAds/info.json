@@ -1,0 +1,17 @@
+{
+    "author": [
+        "ellk (Ellk)",
+        "Help with Mave"
+    ],
+    "install_msg": "You are trying to install a team advertisment cog.",
+    "name": "Gw2",
+    "disabled": false,
+    "short": "Team advertisment",
+    "description": "Users submit a team application to be either approved and denied, if approved will be available to players as an ad ",
+    "tags": [
+        "team",
+        "ad"
+    ],
+    "hidden": false,
+    "min_bot_version": "3.1.8"
+}
