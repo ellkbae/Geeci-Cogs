@@ -1,5 +1,5 @@
-from . import antimentionspam
+from . import welcomec
 
 
 def setup(bot):
-    bot.add_cog(antimentionspam.AntiMentionSpam(bot))
+    bot.add_cog(welcomec.WelcomeC(bot))
