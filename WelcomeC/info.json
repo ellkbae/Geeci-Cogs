@@ -1,0 +1,9 @@
+{
+  "AUTHOR": "Crux",
+  "SHORT": "Welcome messages with slightly different functionality.",
+  "DESCRIPTION": "Welcome messages with displayed bg image and user avatar",
+  "DISABLED": false,
+  "NAME": "WelcomeC",
+  "TAGS": [ "welcomec" ],
+  "INSTALL_MSG": "No way to manage."
+}
