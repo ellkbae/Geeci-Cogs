@@ -102,7 +102,7 @@ class WelcomeC:
         # with open("pic.png","rb") as fp:
         im = Image.open("pic.ng")
         fp = await self.welcome_member(im,font,member)
-        await self.bot.send_file(member.server,fp,filename = "welcome.jpg")
+        await self.bot.send_file(member.server,fp,filename = "https://cdn.discordapp.com/attachments/681746450685624465/681746482403344384/welcome.jpg")
 
 
 def setup(bot):
